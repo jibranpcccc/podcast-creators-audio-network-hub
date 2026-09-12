@@ -256,12 +256,12 @@
   },
   {
     "id": "podcast-creators-audio-syndication-hub-discord-16",
-    "title": "Podcasting Community Discord",
+    "title": "Music & Audio Production Global Discord",
     "platform": "Discord",
     "category": "Podcast Creators",
     "memberCount": "38,000+ members",
     "description": "The premier Discord community for podcast hosts, producers, sound engineers, and show editors.",
-    "joinUrl": "https://discord.gg/podcasting",
+    "joinUrl": "https://discord.gg/musicproduction",
     "tags": [
       "podcasting",
       "hosts",
@@ -272,12 +272,12 @@
   },
   {
     "id": "podcast-creators-audio-syndication-hub-discord-17",
-    "title": "Audio Engineering Collective Discord",
+    "title": "Ableton & Audio Engineering Discord",
     "platform": "Discord",
     "category": "Mixing & Clean Up",
     "memberCount": "44,000+ members",
     "description": "Vocal track clean-up using iZotope RX, gain staging advice, and microphone shootouts.",
-    "joinUrl": "https://discord.gg/audioengineering",
+    "joinUrl": "https://discord.gg/ableton",
     "tags": [
       "audio",
       "izotope",

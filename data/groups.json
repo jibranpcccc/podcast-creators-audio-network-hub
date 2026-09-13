@@ -1,6 +1,24 @@
 [
   {
     "id": "podcast-creators-audio-network-hub-discord-20260913-1",
+    "title": "Audio Engineering Collective Discord",
+    "platform": "Discord",
+    "category": "Mixing & Clean Up",
+    "memberCount": "44,000+ members",
+    "description": "Vocal track clean-up using iZotope RX, gain staging advice, and microphone shootouts.",
+    "joinUrl": "https://discord.gg/audioengineering",
+    "tags": [
+      "audio",
+      "izotope",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
+    "id": "podcast-creators-audio-network-hub-discord-20260913-1",
     "title": "Podcasting Community Discord",
     "platform": "Discord",
     "category": "Podcast Creators",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {

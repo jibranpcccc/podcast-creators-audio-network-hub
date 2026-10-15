@@ -4,10 +4,17 @@
     <title>Podcast Creators &amp; Audio Syndication Hub</title>
     <link>https://jibranpcccc.github.io/podcast-creators-audio-network-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:03:53 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/podcast-creators-audio-network-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-discord-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:03:53 GMT</pubDate>
+      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:08:38 GMT</pubDate>
       <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Audio Engineering Collective Discord (Discord)</title>
-      <link>https://discord.gg/audioengineering</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:04:25 GMT</pubDate>
-      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Vocal track clean-up using iZotope RX, gain staging advice, and microphone shootouts.</description>
     </item>
   </channel>
 </rss>

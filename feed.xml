@@ -4,10 +4,17 @@
     <title>Podcast Creators &amp; Audio Syndication Hub</title>
     <link>https://jibranpcccc.github.io/podcast-creators-audio-network-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 06:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:10:06 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/podcast-creators-audio-network-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                        <item>
+                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-forum-20261021-1-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 09:10:06 GMT</pubDate>
+      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-forum-20261021-1-2026-10-31</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-discord-20261002-1-2026-10-02</guid>
       <pubDate>Fri, 02 Oct 2026 06:04:05 GMT</pubDate>
       <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: The largest community of React, React Native, and full-stack JavaScript developers on Discord.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/javascript Global Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/javascript/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-reddit-20261001-1-2026-10-01</guid>
-      <pubDate>Thu, 01 Oct 2026 07:55:23 GMT</pubDate>
-      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.</description>
     </item>
   </channel>
 </rss>

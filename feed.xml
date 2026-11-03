@@ -4,10 +4,17 @@
     <title>Podcast Creators &amp; Audio Syndication Hub</title>
     <link>https://jibranpcccc.github.io/podcast-creators-audio-network-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:03:54 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/podcast-creators-audio-network-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                <item>
+                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-forum-20261021-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:03:54 GMT</pubDate>
+      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-forum-20261021-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-reddit-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:04:07 GMT</pubDate>
       <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
-      <link>https://t.me/webdev_hub</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-telegram-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:28:03 GMT</pubDate>
-      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Public channel providing updates on frontend, backend, browser standards, and dev tooling.</description>
     </item>
   </channel>
 </rss>

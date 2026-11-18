@@ -4,10 +4,17 @@
     <title>Podcast Creators &amp; Audio Syndication Hub</title>
     <link>https://jibranpcccc.github.io/podcast-creators-audio-network-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:25:14 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/podcast-creators-audio-network-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/podcasting Audio Creators (Reddit)</title>
+      <link>https://www.reddit.com/r/podcasting/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-syndication-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:25:14 GMT</pubDate>
+      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Microphone technique (Shure SM7B), audio interfaces, acoustic room treatment, and RSS feed distribution.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-forum-20261021-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-github-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:03:50 GMT</pubDate>
       <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
-      <link>https://users.rust-lang.org</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/podcast-creators-audio-network-hub/#podcast-creators-audio-network-hub-github-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:03:49 GMT</pubDate>
-      <description>Newly verified community added to Podcast Creators &amp; Audio Syndication Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
     </item>
   </channel>
 </rss>

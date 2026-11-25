@@ -1,5 +1,24 @@
 [
   {
+    "id": "podcast-creators-audio-syndication-hub-reddit-8",
+    "title": "r/audiophile Sound Fidelity",
+    "platform": "Reddit",
+    "category": "Fidelity & Monitoring",
+    "memberCount": "1,100,000+ members",
+    "description": "High-end DAC monitoring, neutral studio reference headphones, and room frequency response calibration.",
+    "joinUrl": "https://www.reddit.com/r/audiophile/",
+    "tags": [
+      "audiophile",
+      "monitoring",
+      "fidelity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "podcast-creators-audio-syndication-hub-reddit-7",
     "title": "r/broadcastengineering Studio Broadcast",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -756,24 +775,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "podcast-creators-audio-syndication-hub-reddit-8",
-    "title": "r/audiophile Sound Fidelity",
-    "platform": "Reddit",
-    "category": "Fidelity & Monitoring",
-    "memberCount": "1,100,000+ members",
-    "description": "High-end DAC monitoring, neutral studio reference headphones, and room frequency response calibration.",
-    "joinUrl": "https://www.reddit.com/r/audiophile/",
-    "tags": [
-      "audiophile",
-      "monitoring",
-      "fidelity",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "podcast-creators-audio-syndication-hub-reddit-9",
